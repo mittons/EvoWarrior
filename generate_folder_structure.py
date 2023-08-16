@@ -37,7 +37,7 @@ def generate_folder_structure():
     create_file('src/game/game_interface.py')
     create_file('src/game/game_state.py')
     create_file('src/utils/logging.py')
-    create_file('src/utils/config.py'))
+    create_file('src/utils/config.py')
 	
     create_file('tests/test_utils.py')
     
